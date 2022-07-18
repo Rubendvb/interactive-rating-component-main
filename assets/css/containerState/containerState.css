@@ -1,0 +1,27 @@
+.containerState {
+  display: none;
+  /* display: flex; */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.img__thank {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.containerState__paragraph {
+  font-size: 0.938rem;
+  color: var(--orange);
+  background-color: hsl(212deg 11% 22%);
+  padding: 0.6rem;
+  border-radius: 2rem;
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 2rem;
+}
+
+.alignment {
+  text-align: center;
+}
