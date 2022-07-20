@@ -1,6 +1,10 @@
 .card {
   width: 100%;
-  background-color: var(--dark-blue);
+  background: linear-gradient(
+    to top,
+    hsl(216deg 19% 15% / 50%) 0%,
+    var(--dark-blue) 100%
+  );
   padding: 2rem 1.25rem;
   border-radius: 1rem;
   margin-bottom: 2rem;
