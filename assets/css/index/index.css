@@ -9,7 +9,11 @@
 }
 
 html {
-  background-color: var(--very-dark-blue);
+  background: linear-gradient(
+    to bottom,
+    var(--very-dark-blue) 0%,
+    var(--dark-blue) 100%
+  );
   font-family: var(--font-family);
   font-size: 16px;
   padding: 0 1.25rem;
@@ -23,7 +27,8 @@ html {
 .attribution {
   font-size: 11px;
   text-align: center;
+  color: var(--orange);
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: var(--white);
 }
