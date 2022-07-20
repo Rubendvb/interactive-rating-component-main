@@ -1,12 +1,6 @@
 # Frontend Mentor - Interactive rating component
 
-<div align="center">
-  <h3>
-    <a href="https://interactive-rating-component-main-5i9m6lqo1-rubendvb.vercel.app/" target="_blank">
-      Ingresar
-    </a>
-  </h3>
-</div>
+[Ingresar](https://interactive-rating-component-main-5i9m6lqo1-rubendvb.vercel.app/)
 
 ## Overview
 
